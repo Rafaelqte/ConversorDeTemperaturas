@@ -1,0 +1,29 @@
+body{
+    background: chartreuse;
+
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    padding: 10px;
+    width: 750px;
+    background: white;
+    border-radius: 15px;
+    font: normal 20px Times;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.712) 15px 15px 15px;
+}
+
+div#res{
+    text-align: center;
+
+
+}
+
+footer{
+    text-align: center;
+    font: normal 19px Italic;
+}
